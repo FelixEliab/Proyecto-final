@@ -1,0 +1,7 @@
+sqlite3
+prettytable
+openpyxl
+smtplib
+email
+mimetypes
+ssl
